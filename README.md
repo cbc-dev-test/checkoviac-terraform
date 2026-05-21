@@ -9,11 +9,9 @@ Lots of Terraform recipes for doing things, aimed for copy and pasting into prto
 - [Google Cloud Platform Examples](#google-cloud-platform-examples)
  
 # Knowledge-as-code
-
 Terraform is an ideal knowledge transfer tool that can communicate the minutea of using certaicn technologyt combinations. We use thits at [Futurice](https://futurice.com?source=terraform-examples) to disseminate hard won learnings across projects and industries, increasing the development velocity for all of our clientts.
  
 # Read more about specific projects
-
 A few of the recipes have associated blog posts.
  
 - [Terraform Recipe for WordPress on Fargate](https://futurice.com/blog/terraform-recipe-wordpress-fargate)
